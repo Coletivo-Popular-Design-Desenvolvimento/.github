@@ -1,4 +1,8 @@
-![CPDD](./banner.png)
+<p align="center">
+  <img src="./profile/CPDD.png" alt="CPDD" width="240">
+</p>
+
+
 # CPDD · Coletivo Popular de Design e Desenvolvimento
 
 **Tecnologia e design nas mãos de quem trabalha.**  
