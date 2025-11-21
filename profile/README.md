@@ -1,3 +1,4 @@
+![CPDD](./banner.png)
 # CPDD · Coletivo Popular de Design e Desenvolvimento
 
 **Tecnologia e design nas mãos de quem trabalha.**  
