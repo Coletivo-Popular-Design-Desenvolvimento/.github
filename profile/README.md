@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile/CPDD.png" alt="CPDD" width="240">
+  <img src="../assets/banner.png" alt="Banner CPDD" width="100%">
 </p>
 
 
