@@ -1,4 +1,4 @@
-# .# CPDD · Coletivo Popular de Design e Desenvolvimento
+# CPDD · Coletivo Popular de Design e Desenvolvimento
 
 **Tecnologia e design nas mãos de quem trabalha.**  
 Construímos ferramentas livres, cooperativas e críticas para fortalecer a soberania digital brasileira.
