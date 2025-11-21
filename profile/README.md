@@ -37,8 +37,8 @@ Aqui, unimos prática técnica, criatividade e consciência de classe para produ
 ## 🌐 Nossos espaços
 - **Site:** https://cpdd.com.br  
 - **Hackathon Popular:** https://cpdd.com.br/hackathon  
-- **Instagram:** [@cpddbrasil ](https://www.instagram.com/cpddbrasil/)
-- **Discord do CPDD (eventos):** https://discord.gg/cpdd 
+- **Instagram:** [@cpddbrasil](https://www.instagram.com/cpddbrasil/)
+- **Discord do CPDD :** https://discord.gg/cpdd 
 
 ---
 
