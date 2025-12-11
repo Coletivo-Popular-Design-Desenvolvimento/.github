@@ -11,7 +11,7 @@ Construímos ferramentas livres, cooperativas e críticas para fortalecer a sobe
 O CPDD é um coletivo formado por trabalhadores de tecnologia, design e gestão que acreditam que a internet é um território político.  
 Se não disputarmos a infraestrutura, o poder das Big Techs continua ditando quem vê, quem fala e quem existe online.
 
-Aqui, unimos prática técnica, criatividade e consciência de classe para produzir tecnologias que sirvam ao povo – e não ao lucro de poucos.
+Aqui, unimos prática técnica, criatividade e consciência de classe para produzir tecnologias que sirvam ao povo e não ao lucro de poucos.
 
 ---
 
